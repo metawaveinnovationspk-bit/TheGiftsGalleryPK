@@ -1,0 +1,8 @@
+{
+  "name": "Remix The Gifts Gallery | Luxury Gift Hampers \u0026 Personalized Surprises",
+  "description": "Handcrafted luxury gift hampers, curated baskets, personalized keepsakes, and special moment surprises across Pakistan by The Gifts Gallery (TGG).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
